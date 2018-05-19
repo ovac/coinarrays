@@ -1,6 +1,8 @@
-{
-   "coin": "btc",
-   "name": "Bitcoin",
-   "address_baseurl": "https://www.blockchain.info/address/",
-   "transaction_baseurl": "https://www.blockchain.info/tx/"
-}
+[
+   {
+      "coin": "btc",
+      "name": "Bitcoin",
+      "address_baseurl": "https://www.blockchain.info/address/",
+      "transaction_baseurl": "https://www.blockchain.info/tx/"
+   }
+]
