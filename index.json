@@ -62,7 +62,14 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
-  
+  {
+    "coin": "rep",
+    "name": "Augur",
+    "address_baseurl": "https://etherscan.io/token/REP?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
+
 
 
 
