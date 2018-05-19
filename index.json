@@ -76,6 +76,13 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
+  {
+    "coin": "knc",
+    "name": "Kyber Network",
+    "address_baseurl": "https://etherscan.io/token/KyberNetwork?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
   
 
 
