@@ -18,7 +18,16 @@
     "name": "Bitcoin Gold",
     "address_baseurl": "https://explorer.bitcoingold.org/insight/address/",
     "transaction_baseurl": "https://explorer.bitcoingold.org/insight/tx/"
-  }
+  },
+
+  {
+    "coin": "eth",
+    "name": "Ethereum",
+    "address_baseurl": "https://etherscan.io/address/",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
+  
 
 
 ]
