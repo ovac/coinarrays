@@ -83,6 +83,20 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
+  {
+    "coin": "cvc",
+    "name": "Civic",
+    "address_baseurl": "https://etherscan.io/token/Civic?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
+  {
+    "coin": "eos",
+    "name": "EOS",
+    "address_baseurl": "https://etherscan.io/token/EOS?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
   
 
 
