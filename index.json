@@ -69,7 +69,14 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
+  {
+    "coin": "bat",
+    "name": "Basic Attention Token",
+    "address_baseurl": "https://etherscan.io/token/BAT?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
 
+  
 
 
 
