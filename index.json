@@ -41,5 +41,15 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
+  {
+    "coin": "zrx",
+    "name": "0x",
+    "address_baseurl": "https://etherscan.io/token/ZRX?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
+
+
+
 
 ]
