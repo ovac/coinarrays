@@ -55,8 +55,14 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
-  
+  {
+    "coin": "gnt",
+    "name": "Golem Network Token",
+    "address_baseurl": "https://etherscan.io/token/Golem?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
 
+  
 
 
 
