@@ -1,8 +1,19 @@
 [
-   {
-      "coin": "btc",
-      "name": "Bitcoin",
-      "address_baseurl": "https://www.blockchain.info/address/",
-      "transaction_baseurl": "https://www.blockchain.info/tx/"
-   }
+  {
+    "coin": "btc",
+    "name": "Bitcoin",
+    "address_baseurl": "https://www.blockchain.info/address/",
+    "transaction_baseurl": "https://www.blockchain.info/tx/"
+  },
+
+  {
+    "coin": "bch",
+    "name": "Bitcoin Cash / BCC",
+    "address_baseurl": "https://blockdozer.com/address/",
+    "transaction_baseurl": "https://blockdozer.com/tx/"
+  }
+
+
+
+
 ]
