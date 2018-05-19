@@ -48,6 +48,19 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
+  {
+    "coin": "fun",
+    "name": "FunFair",
+    "address_baseurl": "https://etherscan.io/token/FunFair?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
+  
+
+
+
+
+
 
 
 
