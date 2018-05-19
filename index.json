@@ -111,6 +111,13 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
+  {
+    "coin": "brd",
+    "name": "Bread token",
+    "address_baseurl": "https://etherscan.io/token/0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
   
 
 
