@@ -34,7 +34,12 @@
     "transaction_baseurl": "https://live.blockcypher.com/btc/tx/"
   },
 
-  
+  {
+    "coin": "omg",
+    "name": "OmiseGo",
+    "address_baseurl": "https://etherscan.io/token/OmiseGo?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
 
 
 ]
