@@ -11,9 +11,14 @@
     "name": "Bitcoin Cash / BCC",
     "address_baseurl": "https://blockdozer.com/address/",
     "transaction_baseurl": "https://blockdozer.com/tx/"
+  },
+
+  {
+    "coin": "btg",
+    "name": "Bitcoin Gold",
+    "address_baseurl": "https://explorer.bitcoingold.org/insight/address/",
+    "transaction_baseurl": "https://explorer.bitcoingold.org/insight/tx/"
   }
-
-
 
 
 ]
