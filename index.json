@@ -104,6 +104,13 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
+  {
+    "coin": "pay",
+    "name": "TenX",
+    "address_baseurl": "https://etherscan.io/token/TenXPay?a=",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
   
 
 
