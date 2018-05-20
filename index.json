@@ -139,4 +139,11 @@
     "transaction_baseurl": "https://www.blocktrail.com/tBCC/address/"
   },
 
+  {
+    "coin": "tltc",
+    "name": "Litecoin Testnet",
+    "address_baseurl": "http://explorer.litecointools.com/tx/",
+    "transaction_baseurl": "http://explorer.litecointools.com/address/"
+  },
+
 ]
