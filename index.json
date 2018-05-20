@@ -195,5 +195,21 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
+  {
+    "coin": "ast",
+    "name": "AirSwap",
+    "address_baseurl": "https://etherscan.io/address/",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
+  {
+    "coin": "amb",
+    "name": "Amber",
+    "address_baseurl": "https://etherscan.io/address/",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
+
+
 
 ]
