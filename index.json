@@ -146,4 +146,11 @@
     "transaction_baseurl": "http://explorer.litecointools.com/address/"
   },
 
+  {
+    "coin": "teth",
+    "name": "Ethereum Testnet",
+    "address_baseurl": "https://kovan.etherscan.io/tx/",
+    "transaction_baseurl": "https://kovan.etherscan.io/address/"
+  },
+
 ]
