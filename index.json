@@ -139,14 +139,32 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
-  
+  {
+    "coin": "tbtc",
+    "name": "Bitcoin Testnet",
+    "address_baseurl": "https://live.blockcypher.com/btc-testnet/tx/",
+    "transaction_baseurl": "https://live.blockcypher.com/btc-testnet/address/"
+  },
 
+  {
+    "coin": "tbcc",
+    "name": "Bitcoin Cash Testnet",
+    "address_baseurl": "https://www.blocktrail.com/tBCC/tx/",
+    "transaction_baseurl": "https://www.blocktrail.com/tBCC/address/"
+  },
 
+  {
+    "coin": "tltc",
+    "name": "Litecoin Testnet",
+    "address_baseurl": "http://explorer.litecointools.com/tx/",
+    "transaction_baseurl": "http://explorer.litecointools.com/address/"
+  },
 
-
-
-
-
-
+  {
+    "coin": "teth",
+    "name": "Ethereum Testnet",
+    "address_baseurl": "https://kovan.etherscan.io/tx/",
+    "transaction_baseurl": "https://kovan.etherscan.io/address/"
+  },
 
 ]
