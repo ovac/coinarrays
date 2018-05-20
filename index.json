@@ -118,7 +118,14 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
-  
+  {
+    "coin": "qrl",
+    "name": "Quantum Resistant Ledger",
+    "address_baseurl": "https://explorer.theqrl.org/a/",
+    "transaction_baseurl": "https://explorer.theqrl.org/tx/"
+  },
+
+
 
 
 
