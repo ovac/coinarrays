@@ -133,10 +133,10 @@
   },
 
   {
-    "coin": "tbcc",
+    "coin": "tbch",
     "name": "Bitcoin Cash Testnet",
-    "address_baseurl": "https://www.blocktrail.com/tBCC/tx/",
-    "transaction_baseurl": "https://www.blocktrail.com/tBCC/address/"
+    "address_baseurl": "https://tbch.blockdozer.com/address/bchtest:",
+    "transaction_baseurl": "https://tbch.blockdozer.com/tx/"
   },
 
   {
@@ -153,4 +153,18 @@
     "transaction_baseurl": "https://kovan.etherscan.io/address/"
   },
 
+  {
+    "coin": "txep",
+    "name": "Ripple Testnet",
+    "address_baseurl": null,
+    "transaction_baseurl": "https://charts.ripple.com/#/transactions/"
+  },
+
+  {
+    "coin": "trmg",
+    "name": "Royal Mint Gold",
+    "address_baseurl": null,
+    "transaction_baseurl": "https://explorer.rmgchain.info/tx/"
+  },
+ 
 ]
