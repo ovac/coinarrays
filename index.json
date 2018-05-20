@@ -132,8 +132,14 @@
     "transaction_baseurl": "https://etherscan.io/tx/"
   },
 
-  
+  {
+    "coin": "arn",
+    "name": "Aeron",
+    "address_baseurl": "https://etherscan.io/address/",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
 
+  
 
 
 
