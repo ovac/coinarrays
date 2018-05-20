@@ -217,5 +217,13 @@
   },
 
 
+    {
+      "coin": "ant",
+      "name": "Aragon",
+      "address_baseurl": "https://etherscan.io/address/",
+      "transaction_baseurl": "https://etherscan.io/tx/"
+    },
+
+
 
 ]
