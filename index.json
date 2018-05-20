@@ -125,6 +125,15 @@
     "transaction_baseurl": "https://explorer.theqrl.org/tx/"
   },
 
+  {
+    "coin": "adt",
+    "name": "AdToken",
+    "address_baseurl": "https://etherscan.io/address/",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
+  
+
 
 
 
