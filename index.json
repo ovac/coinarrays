@@ -125,13 +125,18 @@
     "transaction_baseurl": "https://explorer.theqrl.org/tx/"
   },
 
+  {
+    "coin": "tbtc",
+    "name": "Bitcoin Testnet",
+    "address_baseurl": "https://live.blockcypher.com/btc-testnet/tx/",
+    "transaction_baseurl": "https://live.blockcypher.com/btc-testnet/address/"
+  },
 
-
-
-
-
-
-
-
+  {
+    "coin": "tbcc",
+    "name": "Bitcoin Cash Testnet",
+    "address_baseurl": "https://www.blocktrail.com/tBCC/tx/",
+    "transaction_baseurl": "https://www.blocktrail.com/tBCC/address/"
+  },
 
 ]
