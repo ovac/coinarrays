@@ -180,5 +180,13 @@
     "address_baseurl": null,
     "transaction_baseurl": "https://explorer.rmgchain.info/tx/"
   },
- 
+
+  {
+    "coin": "ae",
+    "name": "Aeternity",
+    "address_baseurl": "https://etherscan.io/address/",
+    "transaction_baseurl": "https://etherscan.io/tx/"
+  },
+
+
 ]
