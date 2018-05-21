@@ -329,7 +329,15 @@
       "transaction_baseurl": "https://etherscan.io/tx/"
     },
 
+    {
+      "coin": "etc",
+      "name": "ETH Classic",
+      "address_baseurl": "http://gastracker.io/addr/",
+      "transaction_baseurl": "http://gastracker.io/tx/"
+    },
+
     
+
 
 
 
