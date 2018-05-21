@@ -597,7 +597,14 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
-      
+        {
+          "coin": "taas",
+          "name": "TAAS",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
+        
 
 
 
