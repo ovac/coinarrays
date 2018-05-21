@@ -301,6 +301,13 @@
       "transaction_baseurl": "https://etherscan.io/tx/"
     },
 
+    {
+      "coin": "dgb",
+      "name": "Digibyte",
+      "address_baseurl": "https://etherscan.io/address/",
+      "transaction_baseurl": "https://etherscan.io/tx/"
+    },
+
     
 
 
