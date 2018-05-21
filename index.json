@@ -660,6 +660,13 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
+        {
+          "coin": "wings",
+          "name": "Wings",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
         
 
 
