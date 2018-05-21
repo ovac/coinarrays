@@ -422,7 +422,14 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
-      
+        {
+          "coin": "mds",
+          "name": "MediShares",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
+        
 
 
 
