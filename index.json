@@ -322,6 +322,13 @@
       "transaction_baseurl": "https://etherscan.io/tx/"
     },
 
+    {
+      "coin": "edg",
+      "name": "Edgless",
+      "address_baseurl": "https://etherscan.io/address/",
+      "transaction_baseurl": "https://etherscan.io/tx/"
+    },
+
     
 
 
