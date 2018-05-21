@@ -639,6 +639,13 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
+        {
+          "coin": "wtc",
+          "name": "Walton",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
         
 
 
