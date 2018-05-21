@@ -343,6 +343,13 @@
       "transaction_baseurl": "https://etherscan.io/tx/"
     },
 
+    {
+      "coin": "1st",
+      "name": "FirstBlood",
+      "address_baseurl": "https://etherscan.io/address/",
+      "transaction_baseurl": "https://etherscan.io/tx/"
+    },
+
     
 
 
