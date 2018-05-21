@@ -534,7 +534,14 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
+        {
+          "coin": "rcn",
+          "name": "Ripio",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
 
+        
 
 
 
