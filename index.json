@@ -450,6 +450,14 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
+        {
+          "coin": "plr",
+          "name": "Pillar",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
+        
 
 
 
