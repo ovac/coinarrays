@@ -407,7 +407,14 @@
     },
 
 
-      
+        {
+          "coin": "mkr",
+          "name": "Maker",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
+
 
 
 
