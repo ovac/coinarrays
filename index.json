@@ -259,6 +259,13 @@
       "transaction_baseurl": "https://etherscan.io/tx/"
     },
 
+    {
+      "coin": "dai",
+      "name": "Dai",
+      "address_baseurl": "https://etherscan.io/address/",
+      "transaction_baseurl": "https://etherscan.io/tx/"
+    },
+
     
 
 
