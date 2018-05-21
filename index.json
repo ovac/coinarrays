@@ -280,6 +280,13 @@
       "transaction_baseurl": "https://etherscan.io/tx/"
     },
 
+    {
+      "coin": "dcr",
+      "name": "Decred",
+      "address_baseurl": "https://mainnet.decred.org/address/",
+      "transaction_baseurl": "https://mainnet.decred.org/tx/"
+    },
+
     
 
 
