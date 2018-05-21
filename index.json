@@ -590,7 +590,14 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
-        
+        {
+          "coin": "sub",
+          "name": "Substratum",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
+      
 
 
 
