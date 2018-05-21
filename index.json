@@ -625,7 +625,14 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
-        
+        {
+          "coin": "veri",
+          "name": "Veritaseum",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
+      
 
 
 
