@@ -527,7 +527,14 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
-        
+        {
+          "coin": "r",
+          "name": "Revain",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
+
 
 
 
