@@ -604,6 +604,13 @@
           "transaction_baseurl": "https://etherscan.io/tx/"
         },
 
+        {
+          "coin": "tnb",
+          "name": "Time Bank",
+          "address_baseurl": "https://etherscan.io/address/",
+          "transaction_baseurl": "https://etherscan.io/tx/"
+        },
+
         
 
 
